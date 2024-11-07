@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "pinia": "^2.2.4",
+    "tailwindcss": "^3.4.14",
+    "to-do-list": "file:",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
   },
